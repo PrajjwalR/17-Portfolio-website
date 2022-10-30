@@ -230,6 +230,14 @@ nav [class*="fa-"]:hover {
     border-radius: 25px;
     padding: 1rem;
 }
+.img2project{
+    width: 100%;
+    margin: 2rem 0 4rem 0;
+    border-left: 1px solid aqua;
+    border-top: 1px solid aqua;
+    border-radius: 25px;
+    padding: 1rem;
+}
 
 .blackbox {
     background-color: black;
@@ -302,3 +310,8 @@ nav [class*="fa-"]:hover {
         justify-content: flex-start;
     }
 }
+
+
+/* About */
+
+
